@@ -1,6 +1,6 @@
 # Todo List API
 
-This is a simple RESTful API for managing a Todo list, built with Flask and SQLAlchemy.
+Estou iniciando minha jornada na programação backend em Python com este projeto: uma API RESTful simples para gerenciar uma lista de tarefas, construída com Flask e SQLAlchemy.
 
 ## Endpoints
 
